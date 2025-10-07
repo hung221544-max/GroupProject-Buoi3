@@ -1,2 +1,1 @@
-Ghi chú  Chi Hy:Ghi chú mới: đã commit lần 1, chuẩn bị push lên branch.
-
+Ghi chú  Chi Hy:hem co gì
